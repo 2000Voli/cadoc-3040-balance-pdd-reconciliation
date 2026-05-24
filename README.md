@@ -140,7 +140,7 @@ cadoc-3040-balance-pdd-reconciliation/
 
 └── outputs/
 
-# Operational Impact
+/# Operational Impact
 
 This automation supported the validation of CADOC 3040 XML files before submission, helping identify potential inconsistencies in balance, PDD and loss values.
 
@@ -148,13 +148,13 @@ It reduced manual checking and improved confidence in regulatory reporting.
 
 ---
 
-# Security & Privacy
+/# Security & Privacy
 
 This repository does not contain real XML files, customer information, contracts, CNPJs, internal paths or sensitive regulatory data.
 
 ---
 
-# Future Improvements
+/# Future Improvements
 
 This repository does not contain real XML files, customer information, contracts, CNPJs, internal paths or sensitive regulatory data.
 
