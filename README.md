@@ -1,4 +1,4 @@
-\# CADOC 3040 Balance \& PDD Reconciliation
+# CADOC 3040 Balance \& PDD Reconciliation
 
 
 
@@ -22,7 +22,7 @@ Python tool for reading CADOC 3040 XML files and consolidating balance, PDD and 
 
 
 
-\# Overview
+# Overview
 
 
 
@@ -38,7 +38,7 @@ The tool processes XML files, consolidates balance, PDD and loss values, and exp
 
 
 
-\# Problem Solved
+# Problem Solved
 
 
 
@@ -58,7 +58,7 @@ The solution became part of the team’s operational workflow.
 
 
 
-\# Main Features
+# Main Features
 
 
 
@@ -86,7 +86,7 @@ The solution became part of the team’s operational workflow.
 
 
 
-\# Technical Stack
+# Technical Stack
 
 
 
@@ -110,7 +110,7 @@ The solution became part of the team’s operational workflow.
 
 
 
-\# Project Structure
+# Project Structure
 
 
 
@@ -139,4 +139,37 @@ cadoc-3040-balance-pdd-reconciliation/
 ├── samples/
 
 └── outputs/
+
+# Operational Impact
+
+This automation supported the validation of CADOC 3040 XML files before submission, helping identify potential inconsistencies in balance, PDD and loss values.
+
+It reduced manual checking and improved confidence in regulatory reporting.
+
+---
+
+# Security & Privacy
+
+This repository does not contain real XML files, customer information, contracts, CNPJs, internal paths or sensitive regulatory data.
+
+---
+
+# Future Improvements
+
+This repository does not contain real XML files, customer information, contracts, CNPJs, internal paths or sensitive regulatory data.
+
+Future Improvements
+Add CLI parameters
+Add automated tests
+Add anonymized XML samples
+Add detailed ClassOp report
+Add comparison with accounting balances
+
+
+
+
+
+
+
+
 
