@@ -2,15 +2,15 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 
-!\[XML](https://img.shields.io/badge/XML-Processing-orange)
+![XML](https://img.shields.io/badge/XML-Processing-orange)
 
-!\[pandas](https://img.shields.io/badge/pandas-Data%20Analysis-purple)
+![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-purple)
 
-!\[RegTech](https://img.shields.io/badge/RegTech-Financial%20Data-red)
+![RegTech](https://img.shields.io/badge/RegTech-Financial%20Data-red)
 
-!\[Status](https://img.shields.io/badge/Status-Active-success)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 
 
